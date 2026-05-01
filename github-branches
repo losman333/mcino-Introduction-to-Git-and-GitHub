@@ -1,0 +1,4 @@
+git branch -vv
+  bug-fix-revert 9bbe4a4 [origin/bug-fix-revert] reverted back to 2022
+  bug-fix-typo   da4f389 [origin/bug-fix-typo] Switched 2022 to 2024 XYZ, Inc
+* main           da4f389 [origin/main: ahead 1, behind 2] Switched 2022 to 2024 XYZ, Inc
